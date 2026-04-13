@@ -9,4 +9,4 @@ go run main.go
 访问`http://localhost:8080/`
 
 ## build
-go build -o today-food.exe main.g
+go build -o today-food.exe main.go
